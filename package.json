@@ -1,0 +1,14 @@
+{
+  "name": "lab-3-http-server",
+  "version": "1.0.0",
+  "description": "Laboratorio 3, haciendo mi primer servidor en node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Suazo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
